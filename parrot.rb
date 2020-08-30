@@ -7,5 +7,5 @@ def parrot
 end
 
 def parrot (name = "Pretty bird!")
-  puts "Hello, #{name}"
+  puts "Pretty bird!"
 end
