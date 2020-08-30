@@ -3,7 +3,7 @@
 
 def parrot (name = "Squawk!")
   puts "Pretty bird!"
-  parrot = "Pretty bird!"
+  parrot = "Squawk!"
 end
   
 
