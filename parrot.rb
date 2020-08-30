@@ -1,9 +1,9 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
 
-def parrot (name = "Squawk!")
-  puts "Pretty bird!", "Squawk!"
-  parrot = "Pretty bird!", "Squawk!"
+def parrot (name = "Squawk!", "Pretty bird!")
+  puts "Pretty bird!"
+  parrot = "Pretty bird!"
 end
   
 
