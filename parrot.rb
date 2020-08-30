@@ -5,6 +5,10 @@ def parrot
   puts "Squawk!"
   parrot = "Squawk!"
 end
-def greeting (name = "Ruby programmer")
+def phrase = parrot("Pretty bird!")
   puts "Hello, #{name}"
+end
+def print_and_return_name
+  puts "Pretty Bird!"
+  "Pretty bird!"
 end
