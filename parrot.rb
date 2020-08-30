@@ -5,4 +5,6 @@ def parrot
   puts "Squawk!"
   parrot = "Squawk!"
 end
-
+def greeting (name = "Ruby programmer")
+  puts "Hello, #{name}"
+end
