@@ -6,7 +6,7 @@ def parrot
   parrot = "Squawk!"
 end
 def phrase = parrot("Pretty bird!")
-  puts "Hello, #{name}"
+  puts "Pretty bird! #{parrot}"
 end
 def print_and_return_name
   puts "Pretty Bird!"
