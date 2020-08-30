@@ -4,7 +4,6 @@
 def parrot (name = "Squawk!")
   puts "Pretty bird!"
   parrot = "Pretty bird!"
-  puts "Squawk!"
 end
   
 
