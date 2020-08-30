@@ -7,7 +7,7 @@ def parrot (name = "Pretty bird!")
   puts "Pretty bird!"
   parrot = "Pretty bird!"
 end
-def parrot
+def parrot (name = "Pretty bird!"
   puts "Squawk!"
   parrot = "Squawk!"
 
