@@ -4,5 +4,3 @@
 def parrot
   puts "Squawk!"
 end
-  phase = "parrot"
-  phase = parrot "Pretty bird!"
