@@ -7,5 +7,5 @@ def parrot
 end
 
 def parrot (parrot ("Pretty bird!"))
-  puts "Hello, #{name}"
+  puts "Pretty bird!"
 
