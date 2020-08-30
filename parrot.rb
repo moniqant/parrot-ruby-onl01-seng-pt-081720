@@ -2,9 +2,7 @@
 # returns the phrase
 
 def parrot
-  puts /"Squawk!"
+  puts "Squawk!"
 end
-  restaurant_name = "Guy's American Kitchen & Bar"
-  cuisine = "american"
-  motto = "Welcome to Flavor Town!"
-end
+  phase = "parrot"
+  phase = parrot "Pretty bird!"
