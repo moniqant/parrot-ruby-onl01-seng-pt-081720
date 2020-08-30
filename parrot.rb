@@ -12,3 +12,7 @@ def print_and_return_name
   puts "Pretty Bird!"
   "Pretty bird!"
 end
+
+def greeting(name = "Ruby programmer")
+  puts "Hello, #{name}"
+end
