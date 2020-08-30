@@ -2,6 +2,7 @@
 # returns the phrase
 
 def parrot
+  puts 
   restaurant_name = "Guy's American Kitchen & Bar"
   cuisine = "american"
   motto = "Welcome to Flavor Town!"
